@@ -14,4 +14,6 @@ Campaigns held in the United States reached a total of 3,038 (74%) of the total 
 ![ParentCategoryUS](ParentCategoryUS.png)
 
 ## Campaigns in Great Britain
-In Great Britain, campaigns reached a total of 604 and make up about 15% of the total campaigns. About 61% of British campaigns were successful. This means that about 17% of total successful campaigns were held in Great Britain and successful British campaigns make up about 9% of our total campaigns. In Great Britain, 359 (about 59%) of campaigns were theatrical campaigns. Of those 359 British theatrical campaigns, 258 (72%) were successful. We have found that 70% of successful British campaigns were theatrical campaigns. This means that successful British theatrical campaigns make up about 43% of total British campaigns.
+In Great Britain, campaigns reached a total of 604 and make up about 15% of the total campaigns. About 61% of British campaigns were successful. This means that about 17% of total successful campaigns were held in Great Britain and successful British campaigns make up about 9% of our total campaigns. In Great Britain, 359 (about 59%) of campaigns were theatrical campaigns. Of those 359 British theatrical campaigns, 258 (72%) were successful. We have found that 70% of successful British campaigns were theatrical campaigns. This means that successful British theatrical campaigns make up about 43% of total British campaigns and 6% of total campaigns.
+
+![ParentCategoryGB](ParentCategoryGB.png)
