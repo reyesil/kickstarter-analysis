@@ -20,3 +20,18 @@ In Great Britain, campaigns reached a total of 604 and make up about 15% of the 
 
 ## Most Successful Campaign Launch Date
 
+Overall, the most of the successful campaigns were launched in May. 
+
+![LaunchDateOutcomesTotal](LaunchDateOutcomesTotal.png)
+
+Likewise, most of the successful U.S. play campaigns were launched in May.
+
+![LaunchDateOutcomesUSplays](LaunchDateOutcomesUSplays.png)
+
+Unlike the previous trends, most of the successful British musical campaigns were launched in June.
+
+![LaunchDateOutcomesGBmusicals](LaunchDateOutcomesGBmusicals.png)
+
+## Recommendations
+
+Based on our findings, the best time to start a play campaign based in the United States is in May. The best time to start a musical campaign based in Great Britain is in June. Overall, theatrical campaigns are the most successful category of Kickstarter campaigns.
