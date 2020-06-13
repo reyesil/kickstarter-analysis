@@ -34,4 +34,16 @@ Unlike the previous trends, most of the successful British musical campaigns wer
 
 ## Recommendations
 
-Based on our findings, the best time to start a play campaign based in the United States is in May. The best time to start a musical campaign based in Great Britain is in June. Overall, theatrical campaigns are the most successful category of Kickstarter campaigns.
+Based on our findings, the best time to start a play campaign based in the United States is in May. The best time to start a musical campaign based in Great Britain is in June. Overall, theatrical campaigns are the most successful category of Kickstarter campaigns, which makes it a good investment to start this type of campaign.
+
+### Challenge
+
+An additional analysis shows that many plays with goals between $1000 and $4999 tend to be considerably more successful in comparison wtih play campaigns with higher or lower goals. This leads us to conclude that setting a goal between $1000 and $4999 is most likely to make our campaign successful.
+
+![OutcomesBasedonGoals](OutcomesBasedonGoals.png)
+
+Similar to the trend of U.S. play campaigns, the successful outcomes of overall theater campaigns cluster aroung May. Starting a play campaign during this part of the year will increase our chances of success. On the other hand, starting a theater campaign around December tends to result in far less successful campaigns, so it is not a favorable time of the year to start a campaign.
+
+![OutcomesBasedonLaunchDate](OutcomesBasedonLaunchDate.png)
+
+The data used in this analysis, though extensive, is nevertheless limited in its capacity to yield absolutely accurate results. The recommendations made in this analysis are based solely on the trends found in the research.
